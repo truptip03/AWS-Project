@@ -1,2 +1,2 @@
-# AWS-Project
+# AWS-Projects
 aws project
